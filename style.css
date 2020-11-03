@@ -13,6 +13,7 @@
     justify-content: center;
     border-radius: 10px;
     background: rgb(18, 24, 22);
+    box-shadow: 3px 3px 2px rgb(122, 121, 121);
 
 }
 main p {
@@ -37,6 +38,7 @@ main p {
     align-self: center;
     display: flex;
     flex-wrap: wrap;
+    box-shadow: 2px 2px 1px rgb(71, 69, 69);
     
     
 
@@ -62,6 +64,7 @@ button{
     margin-top: 5px;
     border-radius: 5px;
     transition: 1s all;
+    box-shadow: 1.5px 1.5px  rgb(75, 74, 74);
     
 }
 button:hover{
